@@ -11,6 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormulaOne.Data", "FormulaO
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{089EE70B-D96A-4400-B4FD-DEDC347900A9}"
 	ProjectSection(SolutionItems) = preProject
+		FormulaOne_Insomnia.json = FormulaOne_Insomnia.json
 		README.md = README.md
 	EndProjectSection
 EndProject
